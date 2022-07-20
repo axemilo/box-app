@@ -1,0 +1,12 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+
+}
